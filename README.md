@@ -1,6 +1,6 @@
 # MoodMinder – AI-Powered Emotion Journal & Music Companion 🎧🧠
 
-MoodMinder is a mobile-first journaling app that helps users understand their emotions, discover meaningful music, and reflect on personal growth. Powered by AI and designed for daily use, MoodMinder turns every journal entry into a therapeutic, insightful experience — and brings your memories back to life with the “On This Day” feature.
+MoodMinder is a journaling app that helps users understand their emotions, discover meaningful music, and reflect on personal growth. Powered by AI and designed for daily use, MoodMinder turns every journal entry into a therapeutic, insightful experience — and brings your memories back to life with the “On This Day” feature.
 
 ---
 
@@ -12,7 +12,6 @@ MoodMinder is a mobile-first journaling app that helps users understand their em
 - 📅 **“On This Day” Time Capsule**: Revisit your thoughts and music from exactly one year ago.
 - 📊 **Mood Trend Insights** _(Web client planned)_.
 - 🔐 **Secure Login**: JWT authentication, Google OAuth planned.
-
 
 ## 📸 Screenshots
 
