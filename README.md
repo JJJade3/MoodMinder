@@ -13,36 +13,6 @@ MoodMinder is a mobile-first journaling app that helps users understand their em
 - 📊 **Mood Trend Insights** _(Web client planned)_.
 - 🔐 **Secure Login**: JWT authentication, Google OAuth planned.
 
----
-
-## 📱 Tech Stack
-
-### Mobile (MVP)
-- React Native (Expo)
-- Context API / Zustand for state
-- Axios for backend integration
-- Local Notifications via Expo
-
-### Backend
-- Node.js + Express
-- MongoDB (MongoDB Atlas)
-- OpenAI GPT API
-- Spotify Web API or Last.fm
-- JWT authentication
-
-### Future (Web Client)
-- React + Tailwind
-- Chart.js or D3.js for emotion trends
-
----
-
-## 🧪 Project Status
-
-✅ Mobile MVP in progress  
-🛠 Web client planned  
-🚀 Deployment phase upcoming
-
----
 
 ## 📸 Screenshots
 
